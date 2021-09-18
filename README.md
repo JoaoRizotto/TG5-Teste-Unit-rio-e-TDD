@@ -1,5 +1,4 @@
-# TG5 Teste Unitário e TDD
-## Grupo: ***Ranger Azul***
+# Grupo: ***Ranger Azul***
 
 ### Fabrício Guilhermo Beatrice de Oliveira TIA: 31835597
 ### João Victor Rizotto Coelho TIA: 31841287
